@@ -1,14 +1,13 @@
 <h1>Lexique du vocabulaire du web</h1>
 <br>
-<p>	Ce fichier est écrit dans le but de confirmer mes connaaissances de base apprise pour <br>
-l'utilisation de git ainsi que d'améliorer mon utilisation du terminal et mes autres connaissances <br>
+<p>	Ce fichier est écrit dans le but de confirmer mes connaaissances de base apprise pour l'utilisation de git ainsi que d'améliorer mon utilisation du terminal et mes autres connaissances <br>
 sur le Web. </p>
 <br>
 <h2>Lexique</h2>
 <br>
-<strong>git</strong> : Logiciel de gestion de versions décentralisé.<br>
-<strong>github</strong>: : Service Web permettant d'héberger ses projets et leur versioning.<br>
-<strong>ligne de commande</strong>: : Entrée tapée dans un terminal. <br>
+<strong>git</strong> : Logiciel libre de gestion de versions décentralisé crée  par Linus Torvalds.<br>
+<strong>github</strong>: : Service Web permettant d'héberger ses projets et leur versions en ligne.<br>
+<strong>ligne de commande</strong>: : Entrée tapée dans un terminal pour intérargir avec l'ordinateur. <br>
 <strong>html</strong>: : HyperTextMarkupLanguage, le HTML est utilisé pour écrire le contenu d'une page web.<br>
 <strong>css</strong>: : cascade style sheet, le CSS est le language utilisé pour stylisé une page web.<br>
 <strong>javascript</strong>: : language de programmation crée pour le web afin de rendre les sites dynamiques côté Front end<br>
