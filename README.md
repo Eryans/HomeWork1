@@ -1,6 +1,6 @@
 <h1>Lexique du vocabulaire du web</h1>
 <br>
-<p>	Ce fichier est écrit dans le but de confirmer mes connaissances de base apprise pour l'utilisation de git ainsi que d'améliorer mon utilisation du terminal et mes autres connaissances <br>
+<p>	Ce fichier est écrit dans le but de confirmer mes connaissances de base apprise pour l'utilisation de git ainsi que d'améliorer mon utilisation du terminal et mes autres connaissances
 sur le Web. </p>
 <br>
 <h2>Lexique</h2>
