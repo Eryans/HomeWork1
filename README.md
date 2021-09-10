@@ -6,7 +6,7 @@ sur le Web. </p>
 <br>
 <h2>Lexique</h2>
 <br>
-<strong>git<strong> : Logiciel de gestion de versions décentralisé.<br>
+<strong>git</strong> : Logiciel de gestion de versions décentralisé.<br>
 **github** : Service Web permettant d'héberger ses projets et leur versioning.<br>
 **ligne de commande** : Entrée tapée dans un terminal. <br>
 **html** : HyperTextMarkupLanguage, le HTML est utilisé pour écrire le contenu d'une page web.<br>
